@@ -1,3 +1,3 @@
 # Primer proyecto NodeJS
 
-## Creaciación de Base de Datos
+## Creación de Base de Datos
